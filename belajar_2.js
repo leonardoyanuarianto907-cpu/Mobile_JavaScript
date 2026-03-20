@@ -11,7 +11,7 @@ let harga = nasigoreng * jumlah
 console.log("totalharga:", harga);
 
 //soal no 3//
-let namapacar = "marsha";
+let namapacar = "dasha taran";
 let lmhub = "2 tahun";
 console.log("saya "+ nama +" dan ini pacar saya "+ namapacar +" hubungan kami sudah berjalan "+ lmhub + " terima kasih.");
 
